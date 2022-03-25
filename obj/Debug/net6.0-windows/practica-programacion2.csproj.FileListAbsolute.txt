@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\practica-programacion2\practica-programacion2\bin\Debug\net6.0-windows\practica-programacion2.exe
+C:\Users\Lenovo\source\repos\practica-programacion2\practica-programacion2\bin\Debug\net6.0-windows\practica-programacion2.deps.json
+C:\Users\Lenovo\source\repos\practica-programacion2\practica-programacion2\bin\Debug\net6.0-windows\practica-programacion2.runtimeconfig.json
+C:\Users\Lenovo\source\repos\practica-programacion2\practica-programacion2\bin\Debug\net6.0-windows\practica-programacion2.dll
+C:\Users\Lenovo\source\repos\practica-programacion2\practica-programacion2\bin\Debug\net6.0-windows\ref\practica-programacion2.dll
+C:\Users\Lenovo\source\repos\practica-programacion2\practica-programacion2\bin\Debug\net6.0-windows\practica-programacion2.pdb
+C:\Users\Lenovo\source\repos\practica-programacion2\practica-programacion2\obj\Debug\net6.0-windows\practica-programacion2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\practica-programacion2\practica-programacion2\obj\Debug\net6.0-windows\practica_programacion2.Form1.resources
+C:\Users\Lenovo\source\repos\practica-programacion2\practica-programacion2\obj\Debug\net6.0-windows\practica-programacion2.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\practica-programacion2\practica-programacion2\obj\Debug\net6.0-windows\practica-programacion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\practica-programacion2\practica-programacion2\obj\Debug\net6.0-windows\practica-programacion2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\practica-programacion2\practica-programacion2\obj\Debug\net6.0-windows\practica-programacion2.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\practica-programacion2\practica-programacion2\obj\Debug\net6.0-windows\practica-programacion2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\practica-programacion2\practica-programacion2\obj\Debug\net6.0-windows\practica-programacion2.dll
+C:\Users\Lenovo\source\repos\practica-programacion2\practica-programacion2\obj\Debug\net6.0-windows\ref\practica-programacion2.dll
+C:\Users\Lenovo\source\repos\practica-programacion2\practica-programacion2\obj\Debug\net6.0-windows\practica-programacion2.pdb
+C:\Users\Lenovo\source\repos\practica-programacion2\practica-programacion2\obj\Debug\net6.0-windows\practica-programacion2.genruntimeconfig.cache
